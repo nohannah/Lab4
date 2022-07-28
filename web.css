@@ -2,12 +2,17 @@ h1{
     color:red;
 
 }
-p{
+
+.p{
     color: blue;
+    text-align: right;
 }
 .img{
     height:500px;
     width:900px;
+}
+.img2{
+    width:auto;
 }
 button{
     background-color: red;
@@ -19,15 +24,14 @@ button{
     cursor: pointer;
     margin-right:8px
 }
-.join{
+.contact{
     background-color: white;
     border-color:rgb(13, 0, 255);
     border-style:solid;
     border-width:1px;
     color:blue;
     height:36px;
-    width:32px;
-    width:62px;
+    width:100px;
     border-radius:2px;
     cursor:pointer;
     margin-right:8px;
@@ -42,5 +46,11 @@ button{
     font-weight:bold;
     font-size:15px;
     cursor: pointer;
+}
+.mar{
+    background-color: aqua;
+    font-size:50px;
+    font-weight:bold;
+    padding:30px
 
 }

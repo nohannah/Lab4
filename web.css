@@ -8,5 +8,11 @@ p{
 .img{
     height:500px;
     width:900px;
-
+}
+button{
+    background-color: red;
+    color:white;
+    border:none;
+    height:36px;
+    width:150px;
 }

@@ -1,3 +1,7 @@
+.p1{
+    text-align: left;
+  
+}
 h1{
     color:red;
 
@@ -8,8 +12,10 @@ h1{
     text-align: right;
 }
 .img{
-    height:500px;
-    width:900px;
+    height:200px;
+    width:150px;
+    float:right;
+   
 }
 .img2{
     width:auto;
@@ -59,5 +65,9 @@ button{
     font-size:50px;
     font-weight:bold;
     padding:30px
-
 }
+body{
+    background-color: rgb(128, 190, 244);
+}
+
+

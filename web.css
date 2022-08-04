@@ -1,7 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+
 .p1{
     text-align: left;
   
@@ -85,5 +82,28 @@ h1{
 body{
     background-color: rgb(128, 190, 244);
 }
+.topnav {
+  overflow: hidden;
+  background-color: rgb(245, 172, 172);
+  text-align: center;
+}
 
+.topnav a {
+  float: left;
+  color: #0c0c0c;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
 

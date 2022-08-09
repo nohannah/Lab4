@@ -1,0 +1,13 @@
+navigator.geolocation.getCurrentPosition(); the geolocation in JS
+svg width="1000" height="1000"></svg> 
+<svg width="2000" height="2000">
+   <circle cx="80" cy="80" r="50" fill="green" />
+</svg>
+<svg width="1000" height="250">
+    <rect width="150" height="150" fill="orange">
+        <animate attributeName="x" from="0" to="300"
+      dur="3s" fill="freeze" repeatCount="2"/> 
+    </rect>
+</svg>
+<canvas id="canvas1" width="200" height="100">
+</canvas>
